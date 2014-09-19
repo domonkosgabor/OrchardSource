@@ -1,0 +1,15 @@
+[2014.09.19. 19:16:54] - Information - Updater starting with checking requirements.
+[2014.09.19. 19:16:54] - Information - Ready to update Orchard from 1.7.3 to 1.8.1.
+[2014.09.19. 19:16:54] - Information - Mapping repositories.
+[2014.09.19. 19:16:58] - Information - Repositories mapped.
+[2014.09.19. 19:16:58] - Information - Searching for Butler modules.
+[2014.09.19. 19:17:01] - Information - Found 0 relevant Butler modules.
+[2014.09.19. 19:17:01] - Information - Running Butler modules before the main update process.
+[2014.09.19. 19:17:02] - Information - There is no module to run.
+[2014.09.19. 19:17:04] - Information - Starting main update process.
+[2014.09.19. 19:17:04] - Information - Removing 'lib' folder.
+[2014.09.19. 19:17:06] - Information - The 'lib' successfully removed.
+[2014.09.19. 19:17:06] - Information - Copying Orchard files.
+[2014.09.19. 19:17:40] - Information - Running Butler modules after the main update process.
+[2014.09.19. 19:17:40] - Information - There is no module to run.
+[2014.09.19. 19:17:40] - Information - Orchard was successfully updated.
